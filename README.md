@@ -32,10 +32,3 @@ This Python notebook is designed to assist digital marketing agencies in generat
 To use this notebook:
 1. Ensure you have Python and Jupyter Notebook installed.
 2. Open the notebook and execute each cell sequentially.
-
-## Files Included
-
-- **keywords.csv:** The final set of keywords is saved as a CSV file.
----
-
-*Note: Customize this README template to provide specific details about your notebook and its usage.*
