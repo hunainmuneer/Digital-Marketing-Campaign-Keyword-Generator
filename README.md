@@ -1,4 +1,4 @@
-# Digital Marketing Campaign Keyword Generator
+# Generating Keywords for Google Ads
 
 ## Introduction
 
